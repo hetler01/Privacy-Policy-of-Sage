@@ -1,4 +1,5 @@
 Privacy Policy for Sage
+
 Sage, operated by Team Sage, is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information.
 
 1. Information We Collect
