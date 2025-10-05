@@ -1,35 +1,76 @@
-Privacy Policy for Sage
-Sage, operated by Team Sage, is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information.
+# Privacy Policy for Sage Discord Bot
 
-1. Information We Collect
-User Information: Discord usernames, user IDs, roles.
-Server Information: Server IDs, channel IDs, settings.
-Message Content: Messages and content for moderation.
-Activity Logs: Logs of Bot actions and user interactions.
-2. How We Use Your Information
-Provide and Improve Services: Ensure proper functionality and improve features.
-Moderation and Security: Monitor and enforce server rules.
-Support: Assist with troubleshooting and user inquiries.
-3. Information Sharing
-We do not sell or share your information, except:
+**Last Updated:** 05-10-2025
 
-Legal Requirements: When required by law.
-Protection of Rights: To protect rights and safety.
-Service Providers: With third parties who assist us, under confidentiality agreements.
-4. Data Security
-We take reasonable measures to protect your information but cannot guarantee complete security.
+Sage ("the Bot") is a Discord bot developed and maintained by **Team Sage** By using Sage in your Discord server, you agree to the practices outlined in this Privacy Policy.
 
-5. Data Retention
-We retain information as long as necessary for our services and legal obligations.
+---
 
-6. Your Rights
-Access: Request a copy of your information.
-Correction: Request corrections to your information.
-Deletion: Request deletion, subject to legal obligations.
-Restriction: Request processing restrictions.
-Objection: Object to processing your information.
-7. Changes to This Policy
-We may update this policy. Significant changes will be posted on our Sage OFFICIAL Discord Server with the updated date.
+## 1. Data We Collect
 
-8. Contact Us
-For questions or concerns, contact us at Sage OFFICIAL Discord Server.
+When Sage is invited to a server, the following information may be collected and stored:
+
+* **Guild Data**: Guild ID, guild configurations (bot settings, logging preferences, feature setups).
+* **User Data**: User IDs for moderation, configuration, and logging purposes.
+* **Messages**: Message content may be collected **only when required** for features such as logging, automoderation, or other bot functionalities.
+* **Other Data**: Any data explicitly set by server administrators through configuration commands.
+
+---
+
+## 2. How We Use the Data
+
+The collected data is used solely to:
+
+* Provide core bot functionality (moderation, security, logging, ticketing, etc.).
+* Maintain bot configurations unique to each guild.
+* Ensure security features (antinuke, automoderation, logging).
+* Improve performance and reliability.
+
+---
+
+## 3. Data Storage & Security
+
+* Data is stored securely in databases accessible only to the bot and its developer(s).
+* We do not share, sell, or rent user or guild data with third parties.
+* While we implement safeguards, we cannot guarantee complete protection against unauthorized access.
+
+---
+
+## 4. Data Retention & Removal
+
+* Data is retained as long as Sage remains in your server.
+* When Sage is removed from a guild, associated configuration and data **may be deleted automatically**.
+* You may request data removal by contacting the developer(s) via the **support server** or other provided channels.
+
+---
+
+## 5. Privileged Intents
+
+Sage operates with the following Discord **Privileged Intents** enabled:
+
+* **Guild Members Intent** (to provide moderation and security features).
+* **Presence Intent** (to enable status-based automations).
+* **Message Content Intent** (to process automoderation, security, logging, and utility features).
+
+By using the bot, you acknowledge and consent to the use of these intents.
+
+---
+
+## 6. Your Rights
+
+You may:
+
+* Request details about what data is stored about your server or user.
+* Request deletion of your data at any time.
+
+---
+
+## 7. Changes to this Policy
+
+We reserve the right to update or modify this Privacy Policy at any time, with or without notice. Continued use of Sage after changes are made constitutes acceptance of the new policy.
+
+---
+
+## 8. Contact
+
+For inquiries, requests, or support regarding privacy, please reach out through the official **[support server](https://discord.gg/HjHDUdZCjP)**
