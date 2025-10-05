@@ -2,7 +2,7 @@
 
 **Last Updated:** 05-10-2025
 
-Sage ("the Bot") is a Discord bot developed and maintained by **Team Sage** By using Sage in your Discord server, you agree to the practices outlined in this Privacy Policy.
+Sage is a Discord bot developed and maintained by **Team Sage** By using Sage in your Discord server, you agree to the practices outlined in this Privacy Policy.
 
 ---
 
