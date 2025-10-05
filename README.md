@@ -73,4 +73,4 @@ We reserve the right to update or modify this Privacy Policy at any time, with o
 
 ## 8. Contact
 
-For inquiries, requests, or support regarding privacy, please reach out through the official **[support server](https://discord.gg/HjHDUdZCjP)**
+For inquiries, requests or support regarding privacy, please reach out through the official **[support server](https://discord.gg/HjHDUdZCjP)**
