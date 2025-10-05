@@ -12,7 +12,7 @@ When Sage is invited to a server, the following information may be collected and
 
 * **Guild Data**: Guild ID, guild configurations (bot settings, logging preferences, feature setups).
 * **User Data**: User IDs for moderation, configuration and logging purposes.
-* **Messages**: Message content may be collected **only when required** for features such as logging, automoderation, or other bot functionalities.
+* **Messages**: Message content may be collected **only when required** for features such as logging, automoderation or other bot functionalities.
 * **Other Data**: Any data explicitly set by server administrators through configuration commands.
 
 ---
@@ -50,7 +50,7 @@ Sage operates with the following Discord **Privileged Intents** enabled:
 
 * **Guild Members Intent** (to provide moderation and security features).
 * **Presence Intent** (to enable status-based automations).
-* **Message Content Intent** (to process automoderation, security, logging, and utility features).
+* **Message Content Intent** (to process automoderation, security, logging and utility features).
 
 By using the bot, you acknowledge and consent to the use of these intents.
 
