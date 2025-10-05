@@ -11,7 +11,7 @@ Sage is a Discord bot developed and maintained by **Team Sage** By using Sage in
 When Sage is invited to a server, the following information may be collected and stored:
 
 * **Guild Data**: Guild ID, guild configurations (bot settings, logging preferences, feature setups).
-* **User Data**: User IDs for moderation, configuration, and logging purposes.
+* **User Data**: User IDs for moderation, configuration and logging purposes.
 * **Messages**: Message content may be collected **only when required** for features such as logging, automoderation, or other bot functionalities.
 * **Other Data**: Any data explicitly set by server administrators through configuration commands.
 
@@ -31,7 +31,7 @@ The collected data is used solely to:
 ## 3. Data Storage & Security
 
 * Data is stored securely in databases accessible only to the bot and its developer(s).
-* We do not share, sell, or rent user or guild data with third parties.
+* We do not share, sell or rent user or guild data with third parties.
 * While we implement safeguards, we cannot guarantee complete protection against unauthorized access.
 
 ---
