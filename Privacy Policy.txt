@@ -12,7 +12,7 @@ When Sage is invited to a server, the following information may be collected and
 
 * **Guild Data**: Guild ID, guild configurations (bot settings, logging preferences, feature setups).
 * **User Data**: User IDs for moderation, configuration and logging purposes.
-* **Messages**: Message content may be collected **only when required** for features such as logging, automoderation, or other bot functionalities.
+* **Messages**: Message content may be collected **only when required** for features such as logging, automoderation or other bot functionalities.
 * **Other Data**: Any data explicitly set by server administrators through configuration commands.
 
 ---
@@ -21,7 +21,7 @@ When Sage is invited to a server, the following information may be collected and
 
 The collected data is used solely to:
 
-* Provide core bot functionality (moderation, security, logging, ticketing, etc.).
+* Provide core bot functionality (moderation, security, logging, ticketing etc.).
 * Maintain bot configurations unique to each guild.
 * Ensure security features (antinuke, automoderation, logging).
 * Improve performance and reliability.
@@ -74,5 +74,6 @@ We reserve the right to update or modify this Privacy Policy at any time, with o
 ## 8. Contact
 
 For inquiries, requests or support regarding privacy, please reach out through the official **[support server](https://discord.gg/HjHDUdZCjP)**
+
 
 
